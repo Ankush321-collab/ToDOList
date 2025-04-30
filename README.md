@@ -20,3 +20,37 @@ A simple and powerful web-based ToDo List application for managing daily tasks e
 
 ## 📁 Project Structure
 
+
+
+
+
+## ▶️ Getting Started
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/Ankush321-collab/ToDOList
+   cd ToDOList
+
+
+python -m venv venv
+venv\Scripts\activate   # For Windows
+
+
+pip install -r requirements.txt
+
+
+python app.py
+
+
+
+### ✅ Next Steps:
+
+1. Save that content into a file named `README.md` in your project root.
+2. Then add it to Git:
+
+```bash
+git add README.md
+git commit -m "Added README.md"
+git push origin main
+
+
